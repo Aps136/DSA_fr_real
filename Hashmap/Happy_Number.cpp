@@ -25,4 +25,4 @@ private:
     }
 };
 
-//TC: O(logn), SC: O(k)
+//TC: O(logn), SC: O(logn)
